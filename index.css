@@ -1,0 +1,15 @@
+#randomLink{  
+    margin-top: 15%;  
+    margin-bottom: 2%;
+}
+#search-bar {
+    width: 0;
+    overflow: hidden;
+    display: inline-block;
+    transition: width 1s;
+}
+
+.search-bar-expanded {
+    width: 50% !important;
+}
+
